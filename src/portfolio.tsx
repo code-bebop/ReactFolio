@@ -38,11 +38,11 @@ export const skills = {
 	// You need to find className for font-awesome icon
 	// Go to https://fontawesome.com/ and search icon
 	lists: [
-		{fontAwesome: "fab fa-html5", text: "HTML5", proficiency: 80},
-		{fontAwesome: "fab fa-css3-alt", text: "CSS3", proficiency: 70},
-		{fontAwesome: "fab fa-js", text: "JS", proficiency: 70},
-		{fontAwesome: "fab fa-sass", text: "Sass", proficiency: 30},
-		{fontAwesome: "fab fa-react", text: "React", proficiency: 60}
+		{fontAwesome: "fab fa-html5", text: "HTML5"},
+		{fontAwesome: "fab fa-css3-alt", text: "CSS3"},
+		{fontAwesome: "fab fa-js", text: "JS"},
+		{fontAwesome: "fab fa-sass", text: "Sass"},
+		{fontAwesome: "fab fa-react", text: "React"}
 	],
 	view: true
 };
